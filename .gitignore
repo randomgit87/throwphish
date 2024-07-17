@@ -15,6 +15,8 @@ state/*
 config/*.json
 config/*.tf
 
+variables.tf
+
 # Terraform binary
 terraform
 
